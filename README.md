@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/alvintest1230906/MyProjectDevOps/_apis/build/status/alvinjunio.ContosoAir?branchName=master)](https://dev.azure.com/alvintest1230906/MyProjectDevOps/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
